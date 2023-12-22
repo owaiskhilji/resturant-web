@@ -1,0 +1,76 @@
+body{
+    padding: 0 !important;
+    margin: 0 !important;
+    box-sizing: border-box;
+    background-color: rgb(86, 179, 241);
+    }
+    .container{
+      border: 2px solid black;
+    width:380px;
+    margin-top:50px;  
+    padding: 20px;
+    border-radius: 10px;
+    background-color: white;
+    box-shadow: 0 0 12px ;
+    }
+    
+    #eye-img{
+      width: 20px;
+      cursor: pointer;
+    }
+    input{
+      width: 300px;
+      padding-left: 5px;
+      margin: 0 auto;
+      border: none;
+    outline: none;
+    }
+    
+    .div-inp{
+      border: 1px solid black;
+      border-radius: 5px; 
+      height: 30px; 
+      background-color: white;
+    
+    }
+    #btn{
+      margin-left:250px;
+    }
+    #btn:hover{
+        background-color: rgb(44, 114, 243) !important;
+    
+    }
+    p{
+      font-size: small;
+      margin-left: 10px;
+    }
+    #div-btn{
+      margin-left:80px;
+    }
+    .gle-btn{
+      width: 200px;
+      height: 30px;
+      border: 1px solid black;
+      border-radius: 40px;
+      background-color: rgb(44, 114, 243);
+    color: white;
+    }
+    .gle-btn:hover{
+      background-color: rgb(26, 64, 135);
+      
+    }
+    .fb-btn{
+      width: 200px;
+      height: 30px;
+      border: 1px solid black;
+      border-radius: 40px;
+      background-color: rgb(44, 114, 243);
+      color: white;
+    }
+    .fb-btn:hover{
+      background-color: rgb(26, 64, 135);
+      
+    }
+    a{
+      text-decoration: none;
+    }
